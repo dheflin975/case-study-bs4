@@ -1,0 +1,10 @@
+#dropdownMenuButton {
+    width: 1500px;
+    border-color: black
+}
+.card {
+    float: left;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 150px;
+}
